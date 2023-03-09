@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=30,2,2,5,35)
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm JongHyun. I am a Developer who takes data literacy seriously!" src="./assets/gh-readme-header.png" /></a></p>
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=30,2,2,5,35) -->
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
