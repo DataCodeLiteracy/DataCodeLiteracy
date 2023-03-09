@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=30,2,2,5,5)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=30,2,2,5,35)
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
