@@ -2,6 +2,7 @@
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20JongHyun.&fontColor=ca294c&animation=blink&fontSize=60)
 
 <div align=center>
+### I'm a Developer who takes DataLiteracy seriously
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
