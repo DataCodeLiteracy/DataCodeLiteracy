@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=30,2,2,5,5)
 
 <div>
-  <code><img height="20" alt="HTML5" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png">
-  <code><img height="20" alt="CSS3" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png">
-  <code><img height="20" alt="JavaScript" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png">
+  <code><img height="20" alt="HTML5" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png"></code>
+  <code><img height="20" alt="CSS3" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png"></code>
+  <code><img height="20" alt="JavaScript" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png"></code>
 </div>
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
