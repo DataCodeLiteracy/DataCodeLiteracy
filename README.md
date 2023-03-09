@@ -42,7 +42,7 @@
   
 <div align="left">
   <h3>About Me</h3>
-  <a href=""><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="35"/></a>
+  <a href=""><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="35" padding-right="20"/></a>
   <a href=""><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567831878/noticon/r5j96kjgofenqdearmdw.png" height="35"/></a>
 </div>
 
