@@ -42,7 +42,7 @@
   
 <div align="left">
   <h3>About Me</h3>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="20"/>
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567831878/noticon/r5j96kjgofenqdearmdw.png"/>
 </div>
 
