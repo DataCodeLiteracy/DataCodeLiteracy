@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDataCodeLiteracy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C6C0C0&title=hits&edge_flat=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCodeLiteracy&layout=compact)](https://github.com/DataCodeLiteracy/github-readme-stats)
