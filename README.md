@@ -42,13 +42,12 @@
   
 <div align="left">
   <h3>About Me</h3>
-  <img src="[https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png)"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567831878/noticon/r5j96kjgofenqdearmdw.png"/>
 </div>
 
 <div align="right">
 
-<h3>My Hits</h3>
-  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDataCodeLiteracy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C6C0C0&title=hits&edge_flat=false)
   
 </div>
