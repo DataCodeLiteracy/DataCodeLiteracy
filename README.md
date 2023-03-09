@@ -42,8 +42,8 @@
   
 <div align="center">
   <h3>About Me</h3>
-  <a href="https://velog.io/@dataliteracy"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="35" paddingRight="20"/></a>
-  <a href="https://dataliteracy.tistory.com/"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567831878/noticon/r5j96kjgofenqdearmdw.png" height="35"/></a>
+  <a href="https://velog.io/@dataliteracy" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="35" paddingRight="20"/></a>
+  <a href="https://dataliteracy.tistory.com/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567831878/noticon/r5j96kjgofenqdearmdw.png" height="35"/></a>
 </div>
 
 <div align="right">
