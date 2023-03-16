@@ -48,7 +48,10 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   </div>
 </div>
-</br>
+
+<h3> 🛠️ Tools </h3>
+
+<img src="https://img.shields.io/badge/Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=34ace0">&nbsp;<img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=Notion&logoColor=4b4b4b">
 
 </br>
 
