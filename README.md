@@ -69,7 +69,7 @@
   
 <a href="https://velog.io/@dataliteracy" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" height="25" paddingRight="20"/></a>
 &nbsp;
-<a href="https://datacodeliteracy.github.io/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" height="27"/></a>
+//<a href="https://datacodeliteracy.github.io/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" height="27"/></a>
 
   
 <h3>💡Contact Me</h3>
