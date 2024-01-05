@@ -24,7 +24,8 @@
 
 <h3>⚖️ Experience</h3>
 
-  - F-Lab Mentee [2023.01 ~ ]
+  - F-Lab Mentee [2023.01 ~ 2023.08]
+  - Super-Coding [2023.09 ~ 2024.01]
 
 </br>
 
